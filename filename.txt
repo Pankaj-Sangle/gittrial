@@ -1,2 +1,2 @@
 Sample file for GIT
-s
+CHanging the file status to commit againg
