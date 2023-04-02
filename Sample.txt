@@ -1,0 +1,2 @@
+Sample file for GIT
+CHanging the file status to commit againg
